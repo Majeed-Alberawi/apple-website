@@ -1,10 +1,13 @@
+import Navbar from "./components/Navbar"
+import Hero from "./components/Hero"
+import Hightlights from "./components/Hightlights"
 
 const App = () => {
   return (
     <main className="bg-black">
-      Navbar
-      Hero
-      Hightlights
+      <Navbar />
+      <Hero />
+      <Hightlights />
     </main>
   )
 }
