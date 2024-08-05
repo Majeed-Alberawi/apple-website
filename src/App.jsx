@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 import Hightlights from "./components/Hightlights"
+import Model from "./components/Model"
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <Hightlights />
+      <Model />
     </main>
   )
 }
