@@ -100,8 +100,7 @@ const VideoCarousel = () => {
       // update the progress bar
       const animUpdate = () => {
         anim.progress(
-          videoRef.current[videoId].currentTime /
-            hightlightsSlides[videoId].videoDuration
+          videoRef.current[videoId].currentTime / hightlightsSlides[videoId].videoDuration
         );
       };
 
