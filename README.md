@@ -29,7 +29,7 @@ The project serves as a foundational setup for integrating **React** with **Vite
   <img src="https://www.svgrepo.com/show/452092/react.svg" width="50px">
   <img src="https://www.svgrepo.com/show/374167/vite.svg" width="50px">
   <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="50px">
-  <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" width="50px">
+  <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" width="50px">
 </p>
 
 ## <a name="features">🔋 Features</a>
